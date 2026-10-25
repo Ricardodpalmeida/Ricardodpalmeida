@@ -16,4 +16,14 @@ On GitHub I share some of the Agent Skills and utilities I’ve been putting tog
 | **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Search Microsoft documentation and code samples through MCP. | [1,646 downloads](https://clawhub.ai/ricardodpalmeida/skills/mslearn-mcp) |
 | **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Engineering guidance for coding agents, adjusted to the risk of the change. | **New** |
 
+## Writing
+
+| Article | About |
+|---|---|
+| **[How do you manage agents’ context? RAG, LLM Wiki and GraphRAG](https://me.ricbits.cc/en/blog/gestao-de-contexto-em-agentes-de-ai/)** | Three ways of organising the information agents receive. |
+| **[AGI, Singularity and Superintelligence](https://me.ricbits.cc/en/blog/agi-singularidade-superinteligencia/)** | Key concepts that are often used interchangeably, but mean different things. |
+| **[Hallucinations in GenAI](https://me.ricbits.cc/en/blog/alucinacoes-em-genai-o-que-sao-e-como-reduzir-riscos/)** | What they are and how to reduce the risks. |
+| **[GenAI and vibe coding](https://me.ricbits.cc/en/blog/genai-vibe-coding/)** | Assisted coding and its impact on development teams. |
+| [First post and a commitment](https://me.ricbits.cc/en/blog/primeiro-post/) | Why I started ricbits. |
+
 [Website](https://me.ricbits.cc/en/) · [LinkedIn](https://www.linkedin.com/in/ricardodpa/) · [ClawHub](https://clawhub.ai/ricardodpalmeida)
