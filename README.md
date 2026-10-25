@@ -1,35 +1,17 @@
 # Ricardo Almeida
 
-**I architect AI projects that actually ship.**
+Hi, I’m Ricardo. I’m a Senior AI Tech Lead/Architect at PwC Portugal and a PhD student studying multi-agent structures.
 
-**AI Architect.** Senior AI Tech Lead and Senior Manager, Tech & Data at **PwC Portugal**. PMP®. PhD student.
+Most of my work involves AI architecture, agents and enterprise applications, across Power Platform and custom development.
 
-I lead agentic automation work, from RAG pipelines to autonomous agents handling end-to-end workflows. My work bridges low-code Power Platform and pro-code stacks with Python, FastAPI, .NET and React, on Azure and AWS.
+On GitHub I share some of the Agent Skills and utilities I’ve been putting together. I also write at [ricbits](https://me.ricbits.cc/en/), mostly about AI and whatever else I feel like writing about.
 
-I also lead the **AI Power Shift** initiative, sharing practical AI perspectives with a community of almost 30,000 followers.
+## Projects
 
-[![Website](https://img.shields.io/badge/ricbits-writing_&_experiments-24292F)](https://me.ricbits.cc/en/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardodpa-0A66C2)](https://www.linkedin.com/in/ricardodpa/)
-[![ClawHub](https://img.shields.io/badge/ClawHub-published_skills-6f42c1)](https://clawhub.ai/ricardodpalmeida)
+- [Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams): generate Excalidraw drawings for Obsidian or excalidraw.com.
+- [LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated): work with LadybugDB property graphs using openCypher and Python.
+- [Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill): capture books from photos or Goodreads exports into Obsidian.
+- [Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp): search Microsoft documentation and code samples through MCP.
+- [Whetstone](https://github.com/Ricardodpalmeida/whetstone): engineering guidance for coding agents, adjusted to the risk of the change.
 
-## Things I build in the open
-
-Agent Skills, knowledge tools and small utilities. Some born from real needs, others from curiosity.
-
-| Project | What it does |
-|---|---|
-| **[Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams)** | Generates validated Excalidraw drawings for Obsidian or excalidraw.com from a compact diagram spec. |
-| **[LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated)** | Property-graph workflows with openCypher and Python: schemas, imports, queries, FTS and verification. |
-| **[Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill)** | Turns book photos or Goodreads exports into durable Obsidian notes, with OCR fallback and user-content preservation. |
-| **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Brings official Microsoft documentation and code samples into agent workflows. |
-| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Risk-proportionate engineering guidance for coding agents. |
-
-More on **[ClawHub](https://clawhub.ai/ricardodpalmeida)**.
-
-## Writing and other rabbit holes
-
-I write at **[ricbits](https://me.ricbits.cc/en/)** about AI, agents, context management and whatever else catches my attention. There are technical texts and others not so much.
-
-MSc ISEG and post-grad NOVA IMS. Former co-host of **Mesa do Canto**, a podcast about science, culture and philosophy. Also into bookbinding, cosmology, sound engineering and the occasional DJ set.
-
-Always curious.
+[Website](https://me.ricbits.cc/en/) · [LinkedIn](https://www.linkedin.com/in/ricardodpa/) · [ClawHub](https://clawhub.ai/ricardodpalmeida)
