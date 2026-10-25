@@ -1,46 +1,35 @@
 # Ricardo Almeida
 
-### AI Tech Lead · Data & AI · Lisbon
+**I architect AI projects that actually ship.**
 
-**I build AI systems that hold up in production.**  
-From agentic workflows and RAG to data platforms and enterprise integrations, with a bias for useful engineering over demos.
+Senior AI Tech Lead and Senior Manager, Tech & Data at **PwC Portugal**. PMP®. PhD student.
 
-At **PwC Portugal**, I work across architecture, engineering and technical leadership. In the open, I build **Agent Skills and tools that make coding agents more rigorous, capable and predictable**.
+I lead agentic automation work, from RAG pipelines to autonomous agents handling end-to-end workflows. My work bridges low-code Power Platform and pro-code stacks with Python, FastAPI, .NET and React, on Azure and AWS.
 
-[![Agent Skills](https://img.shields.io/badge/Agent_Skills-open_source-6f42c1)](https://agentskills.io)
-[![ClawHub](https://img.shields.io/badge/ClawHub-publisher-0A66C2)](https://clawhub.ai/ricardodpalmeida)
-[![OpenClaw](https://img.shields.io/badge/OpenClaw-builder-E34F26)](https://github.com/Ricardodpalmeida?tab=repositories&q=openclaw)
+I also lead the **AI Power Shift** initiative, sharing practical AI perspectives with a community of almost 30,000 followers.
 
-## Selected open source
+[![Website](https://img.shields.io/badge/ricbits-writing_&_experiments-24292F)](https://me.ricbits.cc/en/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ricardodpa-0A66C2)](https://www.linkedin.com/in/ricardodpa/)
+[![ClawHub](https://img.shields.io/badge/ClawHub-published_skills-6f42c1)](https://clawhub.ai/ricardodpalmeida)
+
+## Things I build in the open
+
+Agent Skills, knowledge tools and small utilities. Some born from real needs, others from curiosity.
 
 | Project | What it does |
 |---|---|
-| **[Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams)** | Turns a compact diagram spec into validated Excalidraw drawings for Obsidian or excalidraw.com, with deterministic layout and arrow binding. |
-| **[LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated)** | Practical property-graph workflows with openCypher and Python: schema design, imports, queries, FTS and result verification. |
-| **[Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill)** | Captures books from photos or Goodreads exports into durable Obsidian notes, with OCR fallback and user-content preservation. |
-| **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Connects agents to official Microsoft documentation and code samples through the Microsoft Learn MCP server. |
-| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Risk-proportionate engineering guidance for coding agents, compatible with Claude Code, Codex, OpenClaw and other Agent Skills runtimes. |
+| **[Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams)** | Generates validated Excalidraw drawings for Obsidian or excalidraw.com from a compact diagram spec. |
+| **[LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated)** | Property-graph workflows with openCypher and Python: schemas, imports, queries, FTS and verification. |
+| **[Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill)** | Turns book photos or Goodreads exports into durable Obsidian notes, with OCR fallback and user-content preservation. |
+| **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Brings official Microsoft documentation and code samples into agent workflows. |
+| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Risk-proportionate engineering guidance for coding agents. |
 
-More skills and releases on **[my ClawHub publisher page](https://clawhub.ai/ricardodpalmeida)**.
+More on **[ClawHub](https://clawhub.ai/ricardodpalmeida)**.
 
-## Current focus
+## Writing and other rabbit holes
 
-- **Agentic engineering:** skills, evaluation, tool use and dependable human-in-the-loop workflows
-- **Applied AI:** RAG, knowledge systems, data platforms and production integrations
-- **Enterprise architecture:** Azure AI, Power Platform, Python/FastAPI, .NET and React
-- **Better developer agents:** proportional process, security, verification and useful failure reporting
+I write at **[ricbits](https://me.ricbits.cc/en/)** about AI, agents, context management and whatever else catches my attention. There are technical texts and others not so much.
 
-## Toolbox
+MSc ISEG and post-grad NOVA IMS. Former co-host of **Mesa do Canto**, a podcast about science, culture and philosophy. Also into bookbinding, cosmology, sound engineering and the occasional DJ set.
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power_Platform-742774)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?logo=obsidian&logoColor=white)
-
----
-
-Also into bookbinding, cosmology, sound engineering and the occasional DJ set.
+Always curious.
