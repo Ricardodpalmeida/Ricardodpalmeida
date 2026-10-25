@@ -2,7 +2,7 @@
 
 **I architect AI projects that actually ship.**
 
-Senior AI Tech Lead and Senior Manager, Tech & Data at **PwC Portugal**. PMP®. PhD student.
+**AI Architect.** Senior AI Tech Lead and Senior Manager, Tech & Data at **PwC Portugal**. PMP®. PhD student.
 
 I lead agentic automation work, from RAG pipelines to autonomous agents handling end-to-end workflows. My work bridges low-code Power Platform and pro-code stacks with Python, FastAPI, .NET and React, on Azure and AWS.
 
