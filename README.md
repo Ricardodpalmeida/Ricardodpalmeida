@@ -15,11 +15,11 @@ At **PwC Portugal**, I work across architecture, engineering and technical leade
 
 | Project | What it does |
 |---|---|
-| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Sharpen your coding agent. One Agent Skill that scales engineering rigour to risk: typo fixes stay fast, while auth and data changes get threat models, tests, rollback plans and honest verification. Works with Claude Code, Codex, OpenClaw, Cursor and compatible agents. |
 | **[Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams)** | Turns a compact diagram spec into validated Excalidraw drawings for Obsidian or excalidraw.com, with deterministic layout and arrow binding. |
 | **[LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated)** | Practical property-graph workflows with openCypher and Python: schema design, imports, queries, FTS and result verification. |
 | **[Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill)** | Captures books from photos or Goodreads exports into durable Obsidian notes, with OCR fallback and user-content preservation. |
 | **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Connects agents to official Microsoft documentation and code samples through the Microsoft Learn MCP server. |
+| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Risk-proportionate engineering guidance for coding agents, compatible with Claude Code, Codex, OpenClaw and other Agent Skills runtimes. |
 
 More skills and releases on **[my ClawHub publisher page](https://clawhub.ai/ricardodpalmeida)**.
 
