@@ -6,15 +6,32 @@ Most of my work involves AI implementation, architecture and strategy projects, 
 
 On GitHub I share some of the Agent Skills and utilities I’ve been putting together. I also write at [ricbits](https://me.ricbits.cc/en/), mostly about AI and whatever else I feel like writing about.
 
-## Projects
+## New skills
 
-| Project | What it does | Some numbers |
+### [Data Storycraft](https://github.com/Ricardodpalmeida/data-storycraft-skill)
+
+Turn analysis into charts, slides and reports that make a point. Start with the audience and the decision, remove clutter, and make the takeaway clear.
+
+[See examples and benchmarks](https://github.com/Ricardodpalmeida/data-storycraft-skill#before-and-after) · [Install](https://github.com/Ricardodpalmeida/data-storycraft-skill#install)
+
+### [Whetstone](https://github.com/Ricardodpalmeida/whetstone)
+
+Give coding agents engineering guidance that scales with the risk of each change. Small edits stay small; changes that could affect data, access or availability get stronger checks and a tested way back.
+
+[See how it works](https://github.com/Ricardodpalmeida/whetstone#how-it-scales) · [Install](https://github.com/Ricardodpalmeida/whetstone#install)
+
+## Agent Skills
+
+| Skill | What it does | ClawHub downloads |
 |---|---|---:|
-| **[Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams)** | Generate Excalidraw drawings for Obsidian or excalidraw.com. | [1,511 downloads](https://clawhub.ai/ricardodpalmeida/skills/excalidraw-diagrams) |
-| **[LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated)** | Work with LadybugDB property graphs using openCypher and Python. | 143 downloads |
-| **[Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill)** | Capture books from photos or Goodreads exports into Obsidian. | [1,085 downloads](https://clawhub.ai/ricardodpalmeida/skills/book-capture-obsidian) |
-| **[Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp)** | Search Microsoft documentation and code samples through MCP. | [1,646 downloads](https://clawhub.ai/ricardodpalmeida/skills/mslearn-mcp) |
-| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Engineering guidance for coding agents, adjusted to the risk of the change. | **New** |
+| **[Data Storycraft](https://github.com/Ricardodpalmeida/data-storycraft-skill)** | Communicate data through charts, slides and reports. | [0](https://clawhub.ai/ricardodpalmeida/skills/data-storycraft) |
+| **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Scale engineering checks to the risk of each change. | [78](https://clawhub.ai/ricardodpalmeida/skills/whetstone) |
+| [Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp) | Ground Microsoft answers in current documentation and code samples. | [1,851](https://clawhub.ai/ricardodpalmeida/skills/mslearn-mcp) |
+| [Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams) | Generate Excalidraw drawings for Obsidian or excalidraw.com. | [1,728](https://clawhub.ai/ricardodpalmeida/skills/excalidraw-diagrams) |
+| [Book Capture for Obsidian](https://github.com/Ricardodpalmeida/book-capture-obsidian-skill) | Capture books from photos, ISBNs or Goodreads exports into Obsidian. | [1,292](https://clawhub.ai/ricardodpalmeida/skills/book-capture-obsidian) |
+| [LadybugDB openCypher](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated) | Work with LadybugDB property graphs using openCypher and Python. | [245](https://clawhub.ai/ricardodpalmeida/skills/ladybug-opencypher-updated) |
+
+<sub>5,194 downloads across six skills. Source: ClawHub public API, checked on 1 November 2026.</sub>
 
 ## Writing
 
