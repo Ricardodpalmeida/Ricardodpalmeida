@@ -24,7 +24,7 @@ Give coding agents engineering guidance that scales with the risk of each change
 
 | Skill | What it does | ClawHub downloads |
 |---|---|---:|
-| **[Data Storycraft](https://github.com/Ricardodpalmeida/data-storycraft-skill)** | Communicate data through charts, slides and reports. | [0](https://clawhub.ai/ricardodpalmeida/skills/data-storycraft) |
+| **[Data Storycraft](https://github.com/Ricardodpalmeida/data-storycraft-skill)** | Communicate data through charts, slides and reports. | [new](https://clawhub.ai/ricardodpalmeida/skills/data-storycraft) |
 | **[Whetstone](https://github.com/Ricardodpalmeida/whetstone)** | Scale engineering checks to the risk of each change. | [78](https://clawhub.ai/ricardodpalmeida/skills/whetstone) |
 | [Microsoft Learn MCP](https://github.com/Ricardodpalmeida/openclaw-mslearn-mcp) | Ground Microsoft answers in current documentation and code samples. | [1,851](https://clawhub.ai/ricardodpalmeida/skills/mslearn-mcp) |
 | [Excalidraw Diagrams](https://github.com/Ricardodpalmeida/openclaw-excalidraw-diagrams) | Generate Excalidraw drawings for Obsidian or excalidraw.com. | [1,728](https://clawhub.ai/ricardodpalmeida/skills/excalidraw-diagrams) |
